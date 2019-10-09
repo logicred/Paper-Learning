@@ -5,3 +5,6 @@ Some classical paper which I learned
 ### Intriguing properties of neural networks(ICLR 2014) —— finished
 ### Explaining and Harnessing Adversarial Examples(ICLR 2015) —— finished
 ### One pixel attack for fooling deep neural(CVPR 2017) —— building
+
+## Speech Recognition(语音辨识)
+### Towards end-to-end speech recognition with RNN(ICML 2014) —— building
