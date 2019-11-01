@@ -11,3 +11,6 @@
 
 ## Speech Recognition(语音辨识)
 ### Towards end-to-end speech recognition with RNN(ICML 2014) —— building
+
+## GAN(生成式对抗网络)
+### Generative Adversarial Nets(NIPS 2014) —— building
