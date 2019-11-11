@@ -14,3 +14,4 @@
 
 ## GAN(生成式对抗网络)
 ### Generative Adversarial Nets(NIPS 2014) —— building
+### f-GAN:Training Generative Neural Samplers using Variational Divergence Minimization(NIPS 2016) —— building
